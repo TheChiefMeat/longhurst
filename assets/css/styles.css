@@ -1,0 +1,56 @@
+#Home {
+  width: 100%;
+  height: 100vh;
+  background-image: url("../../assets/img/Hung%20Linocuts%201.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 0px;
+}
+
+.navbar-brand {
+  background-image: url("../../assets/img/wayne%20longhurst%20final%20logo%20black.png");
+  background-repeat: no-repeat;
+  background-size: 80%;
+  width: 150px;
+  background-position: center;
+  height: 60px;
+}
+
+#navcol-1 {
+  font-size: 13px;
+  font-family: Montserrat, sans-serif;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+
+#FrontPageLogo.figure {
+  max-width: 50%;
+  padding-top: 23px;
+}
+
+#About_Text {
+  color: rgba(33,37,41,0.9);
+  font-family: Montserrat, sans-serif;
+  font-weight: 600;
+  width: 100%;
+  margin: 0px;
+}
+
+#About_picture1 {
+  width: 100%;
+  margin: 0px;
+}
+
+#About_Image1 {
+}
+
+#About_Container {
+}
+
+.courses-button {
+  background-color: rgba(125,125,125,0.9);
+  border: 3px solid #fff;
+  border-radius: 30px;
+}
+
